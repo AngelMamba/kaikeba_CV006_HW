@@ -1,0 +1,14 @@
+2.1
+Learning specific deep learning knowledge for CV as basis of intelligent perception for control system of unmanned air vehicle or spacecraft as well as semantic segmentation of remote sensing images through python (PyTorch).
+
+2.2
+Basic CV theory and the implementation.
+
+2.3
+Persistence and curiosity.
+
+2.4
+Nearly no basic knowledge for CV and deep learning.
+
+2.5
+Following the instruction of teachers, lecturers, and other classmates, and discussing positively off-line.

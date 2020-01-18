@@ -1,0 +1,3 @@
+5.2
+Option1: semantic segmentation of remote sensing images
+Option2: target recognition for drone
